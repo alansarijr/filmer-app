@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-fhafhasjfa
-=======
-/* Here put ur notes so we can read it */
------------------------------------------
->>>>>>> 72be56eb649cb33c3e2aa60600756a4a82442e83
+please please dont miss with the file structure i built it with a specific structure so i can 
+code js and back end

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 fhafhasjfa
+=======
+/* Here put ur notes so we can read it */
+-----------------------------------------
+>>>>>>> 72be56eb649cb33c3e2aa60600756a4a82442e83

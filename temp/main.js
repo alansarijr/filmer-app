@@ -1,9 +1,8 @@
-function Person(){
-    this.age = 0;
-    setInterval(() => {
-        this.age++;
-        console.log(this.age);
-    }, 1000);
-}
+const user = {
+    name: 'Mohamed',
+    age: 24,
+    married: false,
+    purchases: ["phone", "car", "laptop"]
+};
 
-let user = new Person;
+console.log(user.purchases);

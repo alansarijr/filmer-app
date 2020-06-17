@@ -1,8 +1,9 @@
-console.log("Hello World");
-if(true){
-    for(let i=0;i<10;i++){
-        while(true){
-            console.log(i);
-        }
-    }
+function Person(){
+    this.age = 0;
+    setInterval(() => {
+        this.age++;
+        console.log(this.age);
+    }, 1000);
 }
+
+let user = new Person;

@@ -1,8 +1,15 @@
-const user = {
-    name: 'Mohamed',
-    age: 24,
-    married: false,
-    purchases: ["phone", "car", "laptop"]
-};
+var user = {
+    name: "mohamed",
+    age: 25
+}
 
-console.log(user.purchases);
+var myName = user.name;
+
+console.log(myName);
+
+const list = {
+    name: "Shopping List",
+    items: ['Milk' ,'Cow']
+}
+
+const {name, items} = list;

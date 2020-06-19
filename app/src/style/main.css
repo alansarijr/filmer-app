@@ -7,8 +7,8 @@
 }
  
 .D1 {
-    width: 300px;
-    height: 150px;
+    width: 600px;
+    height: 300px;
     border: 2px solid black;
 }
 
@@ -18,8 +18,8 @@
 
 .U1 {
     position: relative;
-    left: 70px;
-    top: 40px;
+    left: 500px;
+    top: 130px;
 }
 
 #{
